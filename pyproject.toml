@@ -1,0 +1,27 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "timebase"
+version = "0.0.1"
+authors = [
+    { name="Bryan M. Li", email="bryan.li@ed.ac.uk" },
+    { name='Filippo Corponi', email='filippo.corponi@ed.ac.uk '}
+]
+description = "Codebase for short paper Inferring mood disorder symptoms from multivariate time-series sensory data"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/intrepibd-timebase/ts4h2022"
+"Bug Tracker" = "https://github.com/intrepibd-timebase/ts4h2022/issues"

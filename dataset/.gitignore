@@ -1,0 +1,5 @@
+raw_data/
+*.csv
+*.txt
+*.pkl
+*.h5
