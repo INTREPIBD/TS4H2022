@@ -448,7 +448,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--embedding_type",
         type=int,
-        default=1,
+        default=0,
         choices=[0, 1],
         help="embedding to be used when args.time_alignment == 0"
         "0) GRU layer"
