@@ -7,7 +7,7 @@ Code for workshop paper "Inferring mood disorder symptoms from multivariate time
     li2022inferring,
     title={Inferring mood disorder symptoms from multivariate time-series sensory data},
     author={Bryan M. Li and Filippo Corponi and Gerard Anmella and Ariadna Mas and Miriam Sanabra and Diego Hidalgo-Mazzei and Antonio Vergari},
-    booktitle={NeurIPS 2022 Workshop on Learning from Time Series for Health},
+    journal={NeurIPS 2022 Workshop on Learning from Time Series for Health},
     year={2022},
     url={https://openreview.net/forum?id=awjU8fCDZjS}
 }
