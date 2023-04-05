@@ -1,6 +1,6 @@
 ## Inferring mood disorder symptoms from multivariate time-series sensory data
 
-Code for workshop paper "Inferring mood disorder symptoms from multivariate time-series sensory data" at the [NeurIPS 2022 Workshop on Learning from Time Series for Health](https://timeseriesforhealth.github.io/).
+Code for workshop paper "[Inferring mood disorder symptoms from multivariate time-series sensory data](https://openreview.net/forum?id=awjU8fCDZjS)" at the NeurIPS 2022 Workshop on Learning from Time Series for Health.
 
 ```
 @article{
